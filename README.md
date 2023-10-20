@@ -1,4 +1,4 @@
-
+![logo](https://raw.githubusercontent.com/RitikKumarParvat/RitikKumarParvat/main/image.png)
 <h1 align="center">Hi 👋, I'm Ritik Kumar Parvat</h1>
 <h3 align="center">A passionate GUI developer from India</h3>
 

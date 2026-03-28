@@ -1,28 +1,176 @@
-![logo](https://raw.githubusercontent.com/RitikKumarParvat/RitikKumarParvat/main/image.png)
-<h1 align="center">Hi 👋, I'm Ritik Kumar Parvat</h1>
-<h3 align="center">A passionate GUI developer from India</h3>
+# <div align="center"> ![Profile Banner](https://via.placeholder.com/1200x300/0a0e27/00d4ff?text=Ritik+Kumar+Parvat+-+GUI+Developer)</div>
 
-- 🔭 I’m currently working on **Vision:⛑ the virtual assistant**
+<div align="center">
 
-- 🌱 I’m currently learning **Java, video editing , etc**
+# 👋 Hi, I'm Ritik Kumar Parvat
 
-- 💬 Ask me about **python,mongodb,sql,mysql**
+### 🎨 Full-Stack GUI Developer | Python Enthusiast | ML Practitioner
 
-- 📫 How to reach me **ritikkumarparvat2@gmail.com**
+*Crafting beautiful, functional interfaces and intelligent systems from India*
 
-- ⚡ Fun fact **I think i am funny**
+[![Twitter](https://img.shields.io/badge/Twitter-@ritikparvat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritikparvat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik%20Kumar%20Parvat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-parvat-a53759253/)
+[![Facebook](https://img.shields.io/badge/Facebook-ritikkumarparvat-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ritikkumarparvat/)
+[![Instagram](https://img.shields.io/badge/Instagram-@ritikkumarparvat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ritikkumarparvat/)
+[![Email](https://img.shields.io/badge/Email-ritikkumarparvat2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikkumarparvat2@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ritikparvat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ritikparvat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritik-kumar-parvat-a53759253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritik-kumar-parvat-a53759253/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ritikkumarparvat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ritikkumarparvat/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ritikkumarparvat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ritikkumarparvat/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ritikkumarparvat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ritikkumarparvat" /></a></p><br><br>
+## 🚀 What I'm Currently Working On
 
+**Vision: ⛑ Virtual Assistant** - An intelligent conversational AI powered by cutting-edge NLP and machine learning to understand and respond to user queries with context awareness.
+
+<div align="center">
+  <img src="https://via.placeholder.com/600x200/1a1f3a/00d4ff?text=Vision:+Virtual+Assistant" alt="Vision Assistant" width="600"/>
+</div>
+
+---
+
+## 📚 Current Learning Journey
+
+```
+┌─ Java Development
+├─ Advanced Video Editing & Post-Production
+├─ Deep Learning with TensorFlow
+├─ Mobile App Development (Kotlin)
+└─ Cloud Architecture (AWS/GCP)
+```
+
+---
+
+## 💡 Expertise & Skills
+
+### Languages I Excel At
+- **Python** - Data science, ML, automation, backend development
+- **SQL/MySQL** - Complex queries, optimization, database design
+- **MongoDB** - NoSQL databases, document-oriented design
+- **C** - Systems programming, embedded systems
+- **Kotlin** - Modern Android development
+- **PHP** - Web backend development
+- **JavaScript/HTML/CSS** - Frontend development
+
+### 💬 Ask Me About
+```
+✅ Python Development & Automation
+✅ MongoDB NoSQL Databases
+✅ SQL & MySQL Database Design
+✅ Machine Learning & TensorFlow
+✅ Data Analysis with Pandas & Scikit-learn
+✅ Computer Vision with OpenCV
+✅ GUI Development with Qt/PyQt
+✅ Flask & Django Web Frameworks
+✅ API Development & Postman
+```
+
+---
+
+## 🛠️ Technologies & Tools
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### **Web & Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+
+### **Data & ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikKumarParvat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikKumarParvat&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RitikKumarParvat&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Vision: ⛑ Assistant** | AI-powered virtual assistant with NLP | Python, TensorFlow, NLP |
+| **Data Analysis Dashboard** | Interactive data visualization platform | Python, Pandas, Matplotlib |
+| **E-commerce GUI** | Feature-rich desktop application | Python, Qt, MySQL |
+| **ML Classification Model** | Image recognition system | TensorFlow, OpenCV, Scikit-learn |
+
+---
+
+## 🌟 Fun Facts About Me
+
+- ⚡ I genuinely believe I'm funny (and I'll let my code speak for itself!)
+- 🎮 I enjoy creating GUIs that users actually love to interact with
+- 🎨 Design and functionality are two sides of the same coin to me
+- 🔬 Passionate about exploring AI and machine learning applications
+- 💻 Open-source contributor and knowledge sharer
+- 🌍 Always excited to collaborate on impactful projects
+
+---
+
+## 📞 Get In Touch
+
+I'm always open to discussing new projects, creative ideas, and opportunities to make an impact!
+
+<div align="center">
+
+**📧 Email:** [ritikkumarparvat2@gmail.com](mailto:ritikkumarparvat2@gmail.com)
+
+**💬 Let's connect:** [LinkedIn](https://www.linkedin.com/in/ritik-kumar-parvat-a53759253/) | [Twitter](https://twitter.com/ritikparvat) | [GitHub](https://github.com/RitikKumarParvat)
+
+---
+
+## ☕ Support My Work
+
+If you find my projects helpful or just love coffee (like I do), consider supporting me!
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritikkumarparvat)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, feel free to star my repositories!
+
+*Made with ❤️ by Ritik Kumar Parvat*
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=RitikKumarParvat.RitikKumarParvat)
+
+</div>

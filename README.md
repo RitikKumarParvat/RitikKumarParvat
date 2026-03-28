@@ -1,4 +1,5 @@
-# <div align="center"> ![Profile Banner](https://via.placeholder.com/1200x300/0a0e27/00d4ff?text=Ritik+Kumar+Parvat+-+GUI+Developer)</div>
+
+<img width="1920" height="478" alt="image" src="https://github.com/user-attachments/assets/3a97d2b1-c166-47e5-b255-9cc08e674410" />
 
 <div align="center">
 

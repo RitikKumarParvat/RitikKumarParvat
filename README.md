@@ -110,9 +110,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikKumarParvat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikKumarParvat&theme=tokyonight&hide_border=true&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RitikKumarParvat&theme=tokyonight&hide_border=true)
 
@@ -172,6 +169,5 @@ If you find my projects helpful or just love coffee (like I do), consider suppor
 
 *Made with ❤️ by Ritik Kumar Parvat*
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=RitikKumarParvat.RitikKumarParvat)
 
 </div>
